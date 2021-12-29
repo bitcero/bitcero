@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Eduardo - aka [bitcero](https://bitcero.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning **Flutter** and **Dart** but also as much as possible from everything.
