@@ -2,6 +2,11 @@
 
 ### 💬 Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reset simple de base de datos en Heroku](https://www.elprogramadero.com/reset-simple-de-base-de-datos-en-heroku/)
+- [Configurar Sendgrid y CloudFront](https://www.elprogramadero.com/configurar-sendgrid-y-cloudfront/)
+- [Una mirada rápida a la API de Notion](https://www.elprogramadero.com/una-mirada-rapida-a-la-api-de-notion/)
+- [Menú del escritorio WordPress con icono SVG personalizado](https://www.elprogramadero.com/menu-del-escritorio-wordpress-con-icono-svg-personalizado/)
+- [Empieza el show!](https://www.elprogramadero.com/empieza-el-show/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
