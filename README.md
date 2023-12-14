@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Eduardo - aka [bitcero](https://bitcero.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Flutter** and **Dart** but also as much as possible from everything.
+- 🔭 I’m currently working on different projects using Ruby, RoR, PHP, Laravel, React, Node
 
 ### Connect with me
 
