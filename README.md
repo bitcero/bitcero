@@ -14,13 +14,19 @@
 
 - 🏆 31 repositories created
 - 🔀 134 merged pull requests
-- 💻 6466 total commits
-- 🧐 67 code reviews
+- 💻 6471 total commits last year
+- 🧐 67 code reviews last year
 
 ### Today's Activity
 
-- 📝 11 commits
+- 📝 16 commits
 - 🤝 0 pull requests
+- 👀 0 reviews
+
+### Last Week's Activity
+
+- 💻 166 commits
+- 🤝 15 pull requests
 - 👀 0 reviews
 
 🔍 I am open to new opportunities!
