@@ -10,4 +10,18 @@
 ---
 
 <!--SECTION:stats-->
-<!--/SECTION:stats-->
+## My GitHub Stats
+
+- 🏆 31 repositories created
+- 🔀 134 merged pull requests
+- 💻 6466 total commits
+- 🧐 67 code reviews
+
+### Today's Activity
+
+- 📝 11 commits
+- 🤝 0 pull requests
+- 👀 0 reviews
+
+🔍 I am open to new opportunities!
+  <!--/SECTION:stats-->
